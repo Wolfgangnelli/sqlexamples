@@ -1,0 +1,3 @@
+PICCOLO ESEMPIO DI COME CREARE UN DATABASE 
+-Comandi di base
+-Linguaggio SQL
